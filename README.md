@@ -2,8 +2,8 @@
 
 A full-stack fintech web application built with React.js and Node.js/Express.js.
 
-**Student Name:** ______________________________
-**Roll No:** ______________________________
+**Student Name:** Sameed Gillani
+**Roll No:** 23I-5554
 
 ---
 
